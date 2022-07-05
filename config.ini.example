@@ -1,0 +1,3 @@
+[global]
+token=hbs.asecrettoken
+endpoint=https://vault.example.net
